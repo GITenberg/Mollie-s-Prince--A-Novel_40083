@@ -1,0 +1,31 @@
+_repo: Mollie-s-Prince--A-Novel_40083
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carey, Rosa Nouchette
+    alias: Carey, R. Nouchette (Rosa Nouchette)
+    birthdate: 1840
+    deathdate: 1909
+    gutenberg_agent_id: '1352'
+    url: http://www.gutenberg.org/2009/agents/1352
+    wikipedia: https://en.wikipedia.org/wiki/Rosa_Nouchette_Carey
+description: ''
+gutenberg_issued: '2012-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40083'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Love stories'
+- !lcsh 'Twins -- Fiction'
+title: 'Mollie''s Prince: A Novel'
+url: http://www.gutenberg.org/ebooks/40083
